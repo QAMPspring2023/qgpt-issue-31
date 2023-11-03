@@ -13,10 +13,7 @@ This study is a review and comprehensive analysis of various classical and quant
   - Source : [Li, Yanan, et al. "Quantum Recurrent Neural Networks for Sequential Learning." arXiv preprint arXiv:2302.03244 (2023).](https://arxiv.org/abs/2302.03244)
 + Classical Recurrent Nueral Networks 
 
-<br/>
-<br/>
-Following are the datasets used in this paper :
-
+# Datasets used
 + Meaning Classification(MC)
   - Paper : [Lorenz, Robin, et al. ”QNLP in practice: Running compositional models of meaning on a quantum computer.” Journal of Artificial Intelligence Research 76 (2023): 1305-1342](https://www.jair.org/index.php/jair/article/view/14329)
   - Source : [https://github.com/CQCL/qnlp_lorenz_etal_2021_resources/tree/main/datasets](https://github.com/CQCL/qnlp_lorenz_etal_2021_resources/tree/main/datasets)
