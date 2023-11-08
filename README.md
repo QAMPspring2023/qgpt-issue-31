@@ -30,3 +30,55 @@ This study is a review and comprehensive analysis of various classical and quant
 + Fashion MNIST
   - Paper : [Xiao, Han, Kashif Rasul, and Roland Vollgraf. "Fashion-mnist: a novel image dataset for benchmarking machine learning algorithms." arXiv preprint arXiv:1708.07747 (2017).](https://arxiv.org/abs/1708.07747)
   - Source : [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
+ 
+# Folder hierarchy
+```
+.
+├── Checkpoint presentations
+│   └── QAMP_31_first_checkpoint_1_final.pptx
+├── Classical_Transformer.ipynb
+├── Datasets
+│   ├── MC RP Dataset
+│   │   ├── mc_dev_data.txt
+│   │   ├── mc_test_data.txt
+│   │   ├── mc_train_data.txt
+│   │   ├── rp_test_data.txt
+│   │   └── rp_train_data.txt
+│   └── Sentiment Labelled Sentences Dataset
+│       └── sentiment labelled sentences
+│           ├── amazon_cells_labelled.txt
+│           ├── imdb_labelled.txt
+│           ├── readme.txt
+│           └── yelp_labelled.txt
+├── Presentations shared
+│   ├── Classical_attention_survey_Anu.pdf
+│   ├── QML_Image_Encoding_paper summary.pptx
+│   ├── QRL _35_ppt_QAMP.pptx
+│   ├── QRNN_QAMP.pptx
+│   ├── Transformers_Presentation_Anu.pdf
+│   └── gpt models.pdf
+├── QRNN
+│   ├── Amp_encoding_QRNN.ipynb
+│   ├── QRNN.ipynb
+│   ├── QRNN_PENNY_TFIDF.ipynb
+│   ├── QRNN_Pennylane.ipynb
+│   ├── QRNN_QISKIT_TFIDF.ipynb
+│   └── QRNN_qiskit.ipynb
+├── QRNN Image Classification.ipynb
+├── QSANN codes
+│   ├── Modified_QSANN_pennylane_w_pred_trained_model.ipynb
+│   ├── QSANN_pennylane.ipynb
+│   ├── QSANN_qiskit.ipynb
+│   ├── QSANN_qiskit_with_preprocessor.ipynb
+│   └── Qsann_with_preprocessor.ipynb
+├── QTT
+│   ├── Feat_eco_model_222111_vocab_size20_mc
+│   ├── Feat_eco_model_222121_vocab_size100_rp
+│   └── QSANN_qiskit_experiment_pos_enco.ipynb
+├── QVT
+│   ├── Quantum Vision Transformer-PennyLane-Binary.ipynb
+│   └── Quantum Vision Transformer-PennyLane-MutliClass.ipynb
+├── README.md
+├── RNN.ipynb
+└── Survey_plot.ipynb
+```
