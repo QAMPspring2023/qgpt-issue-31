@@ -82,3 +82,10 @@ This study is a review and comprehensive analysis of various classical and quant
 ├── RNN.ipynb
 └── Survey_plot.ipynb
 ```
+
+# Installation Instructions
+Get the code :
+
+```
+git clone https://github.com/QAMPspring2023/qgpt-issue-31.git
+```
