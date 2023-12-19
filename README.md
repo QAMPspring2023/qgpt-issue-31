@@ -45,11 +45,10 @@ This study is a review and comprehensive analysis of various classical and quant
 │   │   ├── rp_test_data.txt
 │   │   └── rp_train_data.txt
 │   └── Sentiment Labelled Sentences Dataset
-│       └── sentiment labelled sentences
-│           ├── amazon_cells_labelled.txt
-│           ├── imdb_labelled.txt
-│           ├── readme.txt
-│           └── yelp_labelled.txt
+│       ├── amazon_cells_labelled.txt
+│       ├── imdb_labelled.txt
+│       ├── readme.txt
+│       └── yelp_labelled.txt
 ├── Presentations shared
 │   ├── Classical_attention_survey_Anu.pdf
 │   ├── QML_Image_Encoding_paper summary.pptx
